@@ -1,0 +1,840 @@
+
+Times: 0 start:
+Run Time = 248ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 1 start:
+Run Time = 247ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 2 start:
+Run Time = 249ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 3 start:
+Run Time = 247ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 4 start:
+Run Time = 247ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 5 start:
+Run Time = 248ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 6 start:
+Run Time = 244ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 7 start:
+Run Time = 247ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 8 start:
+Run Time = 248ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 9 start:
+Run Time = 248ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 10 start:
+Run Time = 246ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 11 start:
+Run Time = 246ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 12 start:
+Run Time = 247ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 13 start:
+Run Time = 246ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 14 start:
+Run Time = 249ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 15 start:
+Run Time = 247ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 16 start:
+Run Time = 246ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 17 start:
+Run Time = 248ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 18 start:
+Run Time = 247ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 19 start:
+Run Time = 245ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 20 start:
+Run Time = 244ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 21 start:
+Run Time = 243ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 22 start:
+Run Time = 247ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 23 start:
+Run Time = 248ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 24 start:
+Run Time = 245ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 25 start:
+Run Time = 246ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 26 start:
+Run Time = 246ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 27 start:
+Run Time = 248ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 28 start:
+Run Time = 246ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+
+
+Times: 29 start:
+Run Time = 246ms
+NO. of cycles= 2000
+Path Coverage Percentage= 5%
+Best Solution
+path 0-1-2-4-5-1-6: 0 
+path1: no cover.
+path2: no cover.
+path3: no cover.
+path4: no cover.
+path5: no cover.
+path6: no cover.
+path7: no cover.
+path8: no cover.
+path9: no cover.
+path10: no cover.
+path11: no cover.
+path12: no cover.
+path13: no cover.
+path14: no cover.
+path15: no cover.
+path16: no cover.
+path17: no cover.
+path18: no cover.
+path19: no cover.
+
+

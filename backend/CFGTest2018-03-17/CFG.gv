@@ -1,0 +1,11 @@
+digraph coder {  graph[]
+resolution = 600
+node [width = 0.5,shape=circle,color="#2A579A",fontcolor ="#FFFFFF", shape=circle, style=filled,fillcolor ="#2A579A"]
+0->{1}
+1->{2,6}
+2->{3,4}
+3->{5}
+4->{5}
+5->{1}
+6->{}
+}
