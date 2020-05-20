@@ -4,12 +4,6 @@ int test(int a, int b, int c) {
     }
     else {
     }
-    if(b > 0) {
-        if(c > 0) {
-        }
-        else {
-        }
-    }
     else {
     }
 }

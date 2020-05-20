@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  CodeInsert.cpp
+  compilerCall.cpp
+  FilePreProcess.cpp
+c:\users\dave\desktop\github\path-analysis\backend\cfgtest2018-03-17\filepreprocess.cpp(10): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dave\desktop\github\path-analysis\backend\cfgtest2018-03-17\filepreprocess.cpp(65): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dave\desktop\github\path-analysis\backend\cfgtest2018-03-17\filepreprocess.cpp(551): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dave\desktop\github\path-analysis\backend\cfgtest2018-03-17\filepreprocess.cpp(580): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dave\desktop\github\path-analysis\backend\cfgtest2018-03-17\filepreprocess.cpp(616): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dave\desktop\github\path-analysis\backend\cfgtest2018-03-17\filepreprocess.cpp(728): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dave\desktop\github\path-analysis\backend\cfgtest2018-03-17\filepreprocess.cpp(757): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dave\desktop\github\path-analysis\backend\cfgtest2018-03-17\filepreprocess.cpp(793): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dave\desktop\github\path-analysis\backend\cfgtest2018-03-17\filepreprocess.cpp(975): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  fitness.cpp
+  Graph.cpp
+  Lexer.cpp
+c:\users\dave\desktop\github\path-analysis\backend\cfgtest2018-03-17\lexer.cpp(17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dave\desktop\github\path-analysis\backend\cfgtest2018-03-17\lexer.cpp(29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  lexical.cpp
+  Main.cpp
+  syntax.cpp
+  正在生成代码...
+  CFGTest2018-03-17.vcxproj -> C:\Users\Dave\Desktop\github\path-analysis\backend\x64\Debug\CFGTest2018-03-17.exe
